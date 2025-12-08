@@ -1,5 +1,5 @@
 import { Suspense } from 'react'
-import { Canvas } from 
+import { Canvas } from '@react-three/fiber'
 
 const Earth = () => {
   return (
